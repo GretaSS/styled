@@ -68,9 +68,7 @@ const other =({boxS, overflow, color}) =>`
 
 function Button(){
   return(
-    <Button>
-      
-    </Button>
+    <Button> </Button>
   )
 }
 
